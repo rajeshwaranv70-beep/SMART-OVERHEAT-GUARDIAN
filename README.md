@@ -50,7 +50,8 @@ Smart Overheat Guardian continuously monitors temperature using an LM35 sensor. 
 
 # Circuit Diagram
 
-*(Added photos)*
+[Circuit Diagram](SMARTOVERHEATGUARD.png)
+Full schematic PDF: [SmartOverheatGuardian.pdf](SmartOverheatGuardian.pdf)
 
 # Code
 
