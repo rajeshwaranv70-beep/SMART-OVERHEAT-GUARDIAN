@@ -48,9 +48,9 @@ Smart Overheat Guardian continuously monitors temperature using an LM35 sensor. 
 
 *(Circuit diagram designed and simulated using Tinkercad)*
 
-## 📷 Circuit Diagram
+# Circuit Diagram
 
-*(Add your Tinkercad schematic screenshot here)*
+*(Added photos)*
 
 # Code
 
